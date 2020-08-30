@@ -12,7 +12,7 @@ $ git clone https://github.com/getomni/omni-mailspring.git
 ```
 ### Install manually
 
-* Download using the [GitHub.zip](https://github.com/getomni/getomni-mailspring/archive/master.zip) download option and unzip them.
+* Download using the [GitHub.zip](https://github.com/getomni/omni-mailspring/archive/master.zip) download option and unzip them.
 
 
 ### Activating theme
