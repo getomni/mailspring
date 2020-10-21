@@ -1,36 +1,43 @@
-# Omni for [Mailspring](https://github.com/Foundry376/Mailspring)
+<h1 align="center">
+  <br>
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
+  <br>
+  Omni for <a href="https://github.com/Foundry376/Mailspring">Mailspring</a>
+  <br>
+</h1>
 
-> A dark theme for [Mailspring](https://github.com/Foundry376/Mailspring).
+<p align="center">
+  <strong>Dark theme for <a href="https://github.com/Foundry376/Mailspring">Mailspring</a></strong>
+</p>
 
-![Screenshot](./screenshot.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
+</p>
+
+<p align="center">
+  <a href="#install">Install</a> •
+  <a href="#team">Team</a> •
+  <a href="#license">License</a>
+</p>
+
+<p align="center">
+  <img alt="Omni screnshoot for Mailspring" src="./screenshot.png">
+</p>
 
 ## Install
 
-### Install using Git
-```bash
-$ git clone https://github.com/getomni/omni-mailspring.git
-```
-### Install manually
-
-* Download using the [GitHub.zip](https://github.com/getomni/omni-mailspring/archive/master.zip) download option and unzip them.
-
-
-### Activating theme
-<ol>
-<li>Open Mailspring</li>
-<li>On menu Mailspring > Install New Theme... and selecting the directory</li>
-<li>Close and reopen Mailspring</li>
-<li>Boom! It's working</li>
-</ol>
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by Rocketseat
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/mailspring/graphs/contributors).
 
-[![João Inácio](https://avatars0.githubusercontent.com/u/22185823?v=3&s=70)](https://github.com/birobirobiro) |
---- |
-[João Inácio](https://github.com/birobirobiro) |
+| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
+| ----------------------------------------------------------------------------------------------- |
+| [João Inácio](https://github.com/birobirobiro)                                                  |
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.md)
