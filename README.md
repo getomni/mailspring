@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/mailspring/graphs/contributors).
 
-| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
-| ----------------------------------------------------------------------------------------------- |
-| [João Inácio](https://github.com/birobirobiro)                                                  |
+| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) | [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [João Inácio](https://github.com/birobirobiro)                                                  | [João Pedro](https://github.com/jpedroschmitz)                                                   |
 
 ## License
 
